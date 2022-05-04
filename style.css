@@ -5,9 +5,9 @@ body{ margin:0}
 
 #day_name{position: relative;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
-	font-size: 54px;
+	font-size: 46px;
     top: 30%;
-    margin-left: 42%;}
+    margin-left: 39%;}
 
 #comic{ background-image: url("what_a_week.png");top: 96px;width:948px;height:800px;margin:auto;background-repeat:no-repeat;background-position:center;}
 
